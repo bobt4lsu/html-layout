@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(161, 160, 160);
+    height: 100vh;
+    weight: 100vw;
+    margin: 0;
+}
+
+.top-box {
+    background-color: rgb(37, 36, 36);
+    height: 25vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.main-box {
+    background-color: rgb(187, 188, 190);
+    height: 70vh;
+    margin: 0 auto;
+    width: 75vw;
+}
+
+
+.bottom-box {
+    background-color: rgb(27, 36, 36);
+    height: 10vh;
+    width: 75vw;
+    margin: 0 auto;
+
+}
