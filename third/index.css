@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row-top {
+    display: flex;
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(194, 198, 202);
+}
+
+.blue-box {
+    height: 75px;
+    width: 75px;
+    background-color: rgb(0, 110, 255);
+    margin: 5px 5px 5px 20px;
+}
+
+.row-big {
+    display: flex;
+    height: 30vh;
+    width: 100vw;
+    background-color: whitesmoke;
+}
+
+.text {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin: 25px 25px;
+    padding: 25px;
+
+}
+
+.stripe-one {
+    height: 15vh;
+    width: 100vw;
+    background-color: dodgerblue;
+}
+.stripe-two {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(112, 231, 195);
+}
+.stripe-three {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(127, 201, 108);
+}
+.stripe-four {
+    height: 15vh;
+    width: 100vw;
+    background-color: gold;
+}
